@@ -23,10 +23,11 @@ This note **shows** how to install package [Bdmiso][1] in R settings.
 
 ## 1 MacOS
 
-# install Xcode command-line tool
+install Xcode command-line tool
+'''
 xcode-select --install
-
-# install clang-omp (no longer available in brew, try below)
+'''
+install clang-omp (no longer available in brew, try below)
 
 brew tap homebrew/boneyard
 brew install clang-omp
