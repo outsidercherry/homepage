@@ -17,4 +17,4 @@ description: Moxibustion is a traditional Chinese medical treatment for a large 
 ## What is Moxibustion?
 Moxibustion is a form of heat therapy in which dried plant materials 
 called "moxa" are burned on or very near the surface of the skin.
-{% highlight raw %} ![Markdowm Image][/assets/images/Moxa.jpg] {% endhighlight %}
+{% highlight raw %} ![Markdowm Image][https://outsidercherry.github.io/homepage/assets/images/Moxa.jpg] {% endhighlight %}
