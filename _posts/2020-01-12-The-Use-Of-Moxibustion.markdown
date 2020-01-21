@@ -21,3 +21,5 @@ called "moxa" are burned on or very near the surface of the skin.
 
 ![Markdowm Image](https://outsidercherry.github.io/homepage/assets/images/Moxa.jpg)
 <figcaption class="caption">Source from <a href='https://ijoou.store/blogs/news/warnings-and-precautions-of-moxibustion'> this site</a>.</figcaption>
+
+## What is Moxa?
