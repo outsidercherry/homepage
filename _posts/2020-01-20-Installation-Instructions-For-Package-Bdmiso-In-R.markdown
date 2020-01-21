@@ -21,7 +21,7 @@ This note **shows** how to install package [Bdmiso][1] in R settings.
 
 ---
 
-1 MacOS
+## 1 MacOS
 
 # install Xcode command-line tool
 xcode-select --install
