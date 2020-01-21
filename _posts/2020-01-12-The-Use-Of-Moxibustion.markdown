@@ -10,7 +10,7 @@ tag:
 - Topical Treatment
 - Burning
 star: true
-category: life
+category: blog
 author: Jiarui Chi
 description: Moxibustion is a traditional Chinese medical treatment for a large variety of health problems.
 ---
