@@ -20,4 +20,4 @@ Moxibustion is a form of heat therapy in which dried plant materials
 called "moxa" are burned on or very near the surface of the skin.
 
 ![Markdowm Image](https://outsidercherry.github.io/homepage/assets/images/Moxa.jpg)
-<figcaption class="caption">Source from this site <a href='https://ijoou.store/blogs/news/warnings-and-precautions-of-moxibustion'>.</figcaption>
+<figcaption class="caption">Source from <a href='https://ijoou.store/blogs/news/warnings-and-precautions-of-moxibustion'> this site </a>.</figcaption>
