@@ -10,13 +10,15 @@ tag:
 - Topical Treatment
 - Burning
 star: true
-category: blog
+category: life
 author: Jiarui Chi
 description: Moxibustion is a traditional Chinese medical treatment for a large variety of health problems.
+externalLink: false
 ---
 ## What is Moxibustion?
 Moxibustion is a form of heat therapy in which dried plant materials 
 called "moxa" are burned on or very near the surface of the skin.
 
 ![Markdowm Image][https://outsidercherry.github.io/homepage/assets/images/Moxa.jpg]
+
 <figcaption class="caption">Source from [this site](https://ijoou.store/blogs/news/warnings-and-precautions-of-moxibustion).</figcaption>
