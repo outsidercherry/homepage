@@ -34,8 +34,8 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: outsidercherry
-twitter: outsidercherry
+#facebook: outsidercherry
+#twitter: outsidercherry
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -51,7 +51,7 @@ github: outsidercherry
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: outsidercherry0807@gmail.com
+# email: outsidercherry0807@gmail.com
 
 authors:
     MrChi:
