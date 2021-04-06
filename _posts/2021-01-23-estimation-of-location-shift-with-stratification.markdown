@@ -3,7 +3,10 @@ title: ":ramen: Estimation of Location Shift with Stratification"
 layout: post
 date: 2021-01-23 22:10
 tag: 
--jekyll
+- Non-parametric
+- Treatment effect
+- Consistent estimator
+- Inversion of p-value
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: false
 projects: true
