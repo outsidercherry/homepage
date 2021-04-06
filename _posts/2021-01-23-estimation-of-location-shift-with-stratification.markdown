@@ -24,5 +24,5 @@ The van Elteren test is an extension of the Wilcoxon Mann Whitney test to compar
 
 ---
 
-[Check it out](https://outsidercherry.github.io/homepage/assets/files/GSC_presentation slides_Jiarui_ Chi_short.pdf) here.
+[Check it out](https://outsidercherry.github.io/homepage/assets/files/pfizer_intern_slides_short.pdf) here.
 If you need some help, just [tell me](https://github.com/outsidercherry/homepage/issues).
