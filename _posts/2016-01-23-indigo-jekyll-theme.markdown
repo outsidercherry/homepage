@@ -1,34 +1,18 @@
 ---
-title: ":ramen: Indigo, minimalist jekyll theme"
+title: ":ramen: Estimation of Location Shift with Stratification"
 layout: post
-date: 2016-01-23 22:10
+date: 2021-01-23 22:10
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
-description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
+description: "A research project during the 2020 summer internship at Pfizer."
 category: project
-author: johndoe
+author: jiarui
 externalLink: false
 ---
-
-![Screenshot](https://raw.githubusercontent.com/sergiokopplin/indigo/gh-pages/assets/screen-shot.png)
-
-Example of project - Indigo Minimalist Jekyll Template - [Demo](http://sergiokopplin.github.io/indigo/). This is a simple and minimalist template for Jekyll for those who likes to eat noodles.
-
----
-
-What has inside?
-
-- Gulp
-- BrowserSync
-- Stylus
-- SVG
-- Travis
-- No JS
-- [98/100](https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F)
-
+The van Elteren test is an extension of the Wilcoxon Mann Whitney test to compare two groups in an experiment with stratification where it is assumed that the data in each group are identically distributed except for a location shift. In the unstratified case, point and interval estimators for this location shift have been developed, but to our knowledge stratified estimators have not. In this work, we propose 2 stratified estimators of the location shift parameter, and establish consistency and asymptotic normality of each. Confidence intervals are also derived. We also explore an estimator that follows naturally from a testing procedure suggested by Hodges and Lehmann where stratum effects are first removed before utilizing existing unstratified estimators. The proposed estimators are evaluated via simulation and recommendations for use in practice are discussed.
 ---
 
 [Check it out](http://sergiokopplin.github.io/indigo/) here.
